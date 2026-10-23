@@ -1,0 +1,27 @@
+# Happy Packers & Movers and Logistics 
+
+A responsive, user-friendly promotional website for **Happy Packers & Movers and Logistics**, a Coimbatore-based house shifting and logistics firm. The website showcases relocation services offered across India, complete with direct WhatsApp messaging integration for quick inquiries and quotes.
+
+---
+
+## Key Features
+
+* **Multi-Page Layout:** Clean navigation across Home, About Us, Services, and Contact pages.
+* **Direct WhatsApp Integration:** One-click messaging allowing prospective clients to request quotes and book services instantly via WhatsApp.
+* **Service Highlights:** Dedicated sections detailing home shifting, office relocation, and vehicle transportation.
+* **Fully Responsive:** Optimized for seamless performance on desktop computers, tablets, and mobile devices.
+* **Lightweight & Fast:** Built with clean HTML5, CSS3, and JavaScript with minimal external dependencies.
+
+---
+
+## Project Structure
+
+```text
+happy-packers-movers/
+├── css/                  # Custom stylesheet files
+├── js/                   # Interactive JavaScript scripts
+├── index.html            # Main landing page
+├── about.html            # Company background and mission
+├── services.html         # List of moving and logistics services
+├── contact.html          # Contact details, address, and inquiry form
+└── .gitignore            # Git exclusion rules
